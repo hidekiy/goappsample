@@ -1,0 +1,4 @@
+git clone REPO $GOPATH/src/goappsample
+cd $GOPATH/src/goappsample
+go get ./...
+go run main.go
